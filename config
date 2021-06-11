@@ -1,4 +1,4 @@
 NAME=AH501D-171
 USER=softioc
-PORT=4302
-HOST=xf10idd-ioc1
+PORT=4303
+HOST=xf10idd-ioc3
